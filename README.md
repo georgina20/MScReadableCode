@@ -14,10 +14,10 @@ IfConditionComplexityCheck.
 
 Config folder contains the configuration files，there is an example custom_check.xml including all 6 metrics.
 
-There is on .jar file in the jars folder.
+There is one .jar file in the jars folder.
 
 To use this tool, please run the command line:
-java -jar [xxx.jar] -c [xxx.xml] [test object]
+java -jar [xxx.jar] -c [xxx.xml] [test_object]
 
 This is an example:
 
